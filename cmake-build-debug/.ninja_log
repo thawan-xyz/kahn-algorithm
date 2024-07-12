@@ -1,3 +1,15 @@
 # ninja log v5
 5	1938	7424938477888583	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
 1941	2103	7424938479515540	kahn_algorithm.exe	4dec8ecdd4b21b8c
+29	1854	7425009845623158	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
+1854	2171	7425009848795351	kahn_algorithm.exe	4dec8ecdd4b21b8c
+19	1674	7425018205587973	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
+1675	1806	7425018206868156	kahn_algorithm.exe	4dec8ecdd4b21b8c
+18	1691	7425018375239739	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
+1692	1802	7425018376335130	kahn_algorithm.exe	4dec8ecdd4b21b8c
+19	1657	7425018812926278	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
+1657	1767	7425018814031317	kahn_algorithm.exe	4dec8ecdd4b21b8c
+18	1688	7425018981659465	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
+1688	1798	7425018982782868	kahn_algorithm.exe	4dec8ecdd4b21b8c
+18	1494	7425019246582874	CMakeFiles/kahn_algorithm.dir/main.cpp.obj	7dbf0a2fffd25196
+1494	1575	7425019247345208	kahn_algorithm.exe	4dec8ecdd4b21b8c

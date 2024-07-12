@@ -56,13 +56,10 @@ public:
         while (!priority.empty()) {
             int x = priority.top(); priority.pop(); result.push_back(x);
             for (int y : adjacency[x]) {
-                lower_rank(y);
-                if(!is_ranked(y)) priority.push(y);
+                lower_rank(y); if(!is_ranked(y)) priority.push(y);
             }
         }
-
-        if (result.size() > VERTICES) cout << "Error: There exists a cycle in the graph";
-        return result;
+        if (result.size() != VERTICES) cout << "Error: There exists a cycle in the graph"; return result;
     }
 };
 

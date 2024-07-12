@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/kahn-algorithm/cmake-build-debug/CMakeFiles/kahn_algorithm.dir
+C:/Users/Thawan/CLionProjects/kahn-algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/kahn-algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
